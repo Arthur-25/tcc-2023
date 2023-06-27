@@ -1,0 +1,1 @@
+instance_destroy(); //destruir se colidir com a parede
